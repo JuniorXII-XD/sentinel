@@ -1,0 +1,12 @@
+[
+  {"source_ip":"192.0.2.42","event_type":"login_failed","account":"lab.finance"},
+  {"source_ip":"192.0.2.42","event_type":"login_failed","account":"lab.finance"},
+  {"source_ip":"192.0.2.42","event_type":"login_failed","account":"lab.finance"},
+  {"source_ip":"192.0.2.42","event_type":"login_failed","account":"lab.finance"},
+  {"source_ip":"192.0.2.42","event_type":"login_failed","account":"lab.finance"},
+  {"source_ip":"198.51.100.24","event_type":"login_failed","account":"lab.sales1"},
+  {"source_ip":"198.51.100.24","event_type":"login_failed","account":"lab.sales2"},
+  {"source_ip":"198.51.100.24","event_type":"login_failed","account":"lab.sales3"},
+  {"source_ip":"198.51.100.24","event_type":"login_failed","account":"lab.sales4"},
+  {"source_ip":"198.51.100.24","event_type":"login_failed","account":"lab.sales5"}
+]

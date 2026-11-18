@@ -1,0 +1,9 @@
+{
+  "name": "sentinel-standard",
+  "private": true,
+  "version": "1.0.1",
+  "scripts": {
+    "dev": "python3 scripts/serve.py",
+    "build": "npm --prefix frontend run build"
+  }
+}

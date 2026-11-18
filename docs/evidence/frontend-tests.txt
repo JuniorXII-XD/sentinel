@@ -1,0 +1,13 @@
+
+> sentinel-ui@1.0.0 test
+> vitest run
+
+
+ RUN  v4.1.12 /workspace/scratch/9f72fc1b2d57/sentinel/frontend
+
+
+ Test Files  2 passed (2)
+      Tests  7 passed (7)
+   Start at  13:16:13
+   Duration  1.79s (transform 157ms, setup 0ms, import 675ms, tests 451ms, environment 1.13s)
+

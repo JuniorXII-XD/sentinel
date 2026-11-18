@@ -1,0 +1,14 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> sentinel-ui@1.0.1 test
+> vitest run
+
+
+ RUN  v4.1.12 /workspace/scratch/9f72fc1b2d57/sentinel/frontend
+
+
+ Test Files  3 passed (3)
+      Tests  8 passed (8)
+   Start at  20:14:00
+   Duration  3.44s (transform 417ms, setup 0ms, import 2.13s, tests 1.33s, environment 2.99s)
+

@@ -1,0 +1,84 @@
+{
+  "scope": "demo",
+  "days": 7,
+  "generated_at": "2026-11-17T06:18:12.053057Z",
+  "total_events": 215,
+  "active_alerts": 6,
+  "high_risk_events": 1,
+  "login_success": 190,
+  "login_failed": 23,
+  "total_alerts": 6,
+  "resolved_alerts": 0,
+  "resolution_rate": 0.0,
+  "event_types": {
+    "demo_seeded": 1,
+    "login_failed": 23,
+    "login_success": 190,
+    "unauthorized_access": 1
+  },
+  "severity": {
+    "critical": 1,
+    "high": 3,
+    "low": 1,
+    "medium": 1
+  },
+  "status": {
+    "open": 6
+  },
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "success": 0,
+      "failed": 0,
+      "other": 0
+    },
+    {
+      "date": "2026-11-11",
+      "success": 15,
+      "failed": 0,
+      "other": 0
+    },
+    {
+      "date": "2026-11-12",
+      "success": 19,
+      "failed": 0,
+      "other": 0
+    },
+    {
+      "date": "2026-11-13",
+      "success": 23,
+      "failed": 0,
+      "other": 0
+    },
+    {
+      "date": "2026-11-14",
+      "success": 27,
+      "failed": 0,
+      "other": 0
+    },
+    {
+      "date": "2026-11-15",
+      "success": 31,
+      "failed": 0,
+      "other": 0
+    },
+    {
+      "date": "2026-11-16",
+      "success": 36,
+      "failed": 0,
+      "other": 0
+    },
+    {
+      "date": "2026-11-17",
+      "success": 39,
+      "failed": 23,
+      "other": 2
+    }
+  ],
+  "recommendations": [
+    "Review related events before classifying any alert as an attack.",
+    "Enable MFA at the monitored identity provider; SENTINEL does not implement MFA.",
+    "Review repeated failures, validate account ownership and inspect trusted identity-provider logs.",
+    "Assign an investigator to open alerts and document the outcome."
+  ]
+}
