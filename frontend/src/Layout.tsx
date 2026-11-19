@@ -143,7 +143,7 @@ export default function Shell() {
                 <span className="dot green" /> Session active
               </span>
               <span className="top-divider" />
-              <span className="mono">STANDARD v1.0</span>
+              <span className="mono">STANDARD v1.0.1</span>
             </div>
           </header>
           <main>
